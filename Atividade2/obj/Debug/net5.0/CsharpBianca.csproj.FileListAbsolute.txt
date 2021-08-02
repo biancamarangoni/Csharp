@@ -1,0 +1,16 @@
+C:\Users\fic\Documents\CsharpBianca\bin\Debug\net5.0\CsharpBianca.exe
+C:\Users\fic\Documents\CsharpBianca\bin\Debug\net5.0\CsharpBianca.deps.json
+C:\Users\fic\Documents\CsharpBianca\bin\Debug\net5.0\CsharpBianca.runtimeconfig.json
+C:\Users\fic\Documents\CsharpBianca\bin\Debug\net5.0\CsharpBianca.runtimeconfig.dev.json
+C:\Users\fic\Documents\CsharpBianca\bin\Debug\net5.0\CsharpBianca.dll
+C:\Users\fic\Documents\CsharpBianca\bin\Debug\net5.0\ref\CsharpBianca.dll
+C:\Users\fic\Documents\CsharpBianca\bin\Debug\net5.0\CsharpBianca.pdb
+C:\Users\fic\Documents\CsharpBianca\obj\Debug\net5.0\CsharpBianca.csproj.AssemblyReference.cache
+C:\Users\fic\Documents\CsharpBianca\obj\Debug\net5.0\CsharpBianca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Documents\CsharpBianca\obj\Debug\net5.0\CsharpBianca.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\CsharpBianca\obj\Debug\net5.0\CsharpBianca.AssemblyInfo.cs
+C:\Users\fic\Documents\CsharpBianca\obj\Debug\net5.0\CsharpBianca.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\CsharpBianca\obj\Debug\net5.0\CsharpBianca.dll
+C:\Users\fic\Documents\CsharpBianca\obj\Debug\net5.0\ref\CsharpBianca.dll
+C:\Users\fic\Documents\CsharpBianca\obj\Debug\net5.0\CsharpBianca.pdb
+C:\Users\fic\Documents\CsharpBianca\obj\Debug\net5.0\CsharpBianca.genruntimeconfig.cache
