@@ -6,15 +6,10 @@ namespace Switch
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Insira sua idade!");
-            int idade = int.Parse(Console.ReadLine());
+            Console.WriteLine("Insira sua nome!");
+            string nome = Console.ReadLine();
 
-            if (idade < 18)
-            {
-
-            }else if(idade > 18){
-                
-            }
+            string letra = nome.Substring(0, 1);
         }
     }
 }
